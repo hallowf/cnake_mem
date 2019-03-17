@@ -3,3 +3,5 @@ Release
 *.suo
 *.user
 *.ncb
+pybind11-master
+*.zip
