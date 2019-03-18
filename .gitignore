@@ -5,3 +5,10 @@ Release
 *.ncb
 pybind11-master
 *.zip
+*vcxproj*
+*.sln
+*.cmake
+*.so
+CMakeFiles
+Makefile
+CMakeCache.txt
